@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nim: MyString
+  nama: MyString
+  alamat: MyString
+  tanggal_lahir: 2015-06-28
+
+two:
+  nim: MyString
+  nama: MyString
+  alamat: MyString
+  tanggal_lahir: 2015-06-28
